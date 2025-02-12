@@ -7,7 +7,6 @@ public class Test {
      System.out.println("i am a manager...");
      System.out.println("in master ");
 
-		System.out.println("i am a manager...");
 
 	}
 
