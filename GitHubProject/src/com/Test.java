@@ -11,6 +11,6 @@ public class Test {
 	}
 
 	public static void sayhi() {
-		System.out.println("i am developer 1..");
+		System.out.println("i am developer 1...");
 	}
 }
